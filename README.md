@@ -1,5 +1,5 @@
 # 💫 About Me:
-Mobile Developer 📱
+Mobile Applicatoin Developer 📱
 
 
 # 💻 Tech Stack:
